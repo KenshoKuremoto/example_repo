@@ -192,3 +192,5 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+env.hw5.1ipynb
+env.hw5.3ipynb
